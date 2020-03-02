@@ -28,6 +28,8 @@
 			</array>
 			<key>metadata</key>
 			<dict>
+				<key>subtitle</key>
+				<string>11234445</string>
 				<key>bundle-identifier</key>
 				<string>com.ccb.fintech.xm.smarto</string>
 				<key>bundle-version</key>
